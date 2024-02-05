@@ -1,0 +1,1 @@
+# Ways_To_Create_Obj_In_JS
